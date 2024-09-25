@@ -62,10 +62,10 @@ const Welcome = () => {
             </div>
             <div className={companyCommonStyles}>Security</div>
             <div className={`sm:rounded-tr-2xl ${companyCommonStyles}`}>
-              Ethereum
+              Decentralization
             </div>
             <div className={`sm:rounded-bl-2xl ${companyCommonStyles}`}>
-              Web 3.0
+              Peer to Peer
             </div>
             <div className={companyCommonStyles}>Low Fees</div>
             <div className={`rounded-br-2xl ${companyCommonStyles}`}>
